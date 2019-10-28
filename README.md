@@ -1,3 +1,3 @@
 # Test
 
-Tihs is a test raed me file on my first Github ripository!!
+This is a test readme file on my first Github repository!!
